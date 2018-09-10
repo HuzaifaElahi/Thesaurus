@@ -14,7 +14,12 @@
             var parsedData = JSON.parse(x);
             var cities = parsedData.def[0];
             var city = JSON.stringify(cities);
+            if (city != undefined){
             alert (city);
+            }
+            else{
+                alert("Invalid Input!");
+            }
         });
     });
 }) 
