@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Dictionary",
-    "description": "Quick dictionary access",
+    "name": "Thesaurus",
+    "description": "Quick Thesaurus access",
     "version": "1.0.0",
     "icons": {"128": "icon_128.png"},
     "browser_action": {
